@@ -35,7 +35,8 @@
     <input type="text" size="50" id="NombreFichero">
     <br>
     Introduce el contenido del fichero:<br>
-    <textarea rows="10" cols="75" id="ContenidoFichero"></textarea>
+    <textarea rows="10" cols="75" id="ContenidoFichero">
+    </textarea>
     <br>
     Mensaje de Commit:<br>
     <input type="text"size="50" id="MensajeCommit">
